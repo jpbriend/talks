@@ -1,6 +1,6 @@
 ## Jean-Philippe Briend
 
-<img src="../img/jpb.jpg" style="width: 150%; height: 150%;" />
+<img src="../img/jpb.jpg" style="width: 100%; height: 100%;" />
 
 
 [<img src="../img/company-big.png" style="background-color: white;" />](https://www.cloudbees.com)
